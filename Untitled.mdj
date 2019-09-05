@@ -989,7 +989,8 @@
 								"$ref": "AAAAAAFtAAu1E1aCev4="
 							},
 							"name": "AttackPower",
-							"visibility": "protected"
+							"visibility": "protected",
+							"type": ""
 						}
 					],
 					"operations": [
@@ -1060,7 +1061,8 @@
 							"_parent": {
 								"$ref": "AAAAAAFtABnRAlbvEDI="
 							},
-							"name": "Name"
+							"name": "Name",
+							"type": ""
 						},
 						{
 							"_type": "UMLAttribute",
@@ -1068,7 +1070,8 @@
 							"_parent": {
 								"$ref": "AAAAAAFtABnRAlbvEDI="
 							},
-							"name": "Health"
+							"name": "Health",
+							"type": ""
 						}
 					],
 					"operations": [
