@@ -2,8 +2,8 @@ package kr.ac.daelim.uml;
 
 public class Medic extends Unit {
 
-	String Name="Medic";
-	int Helath=60;
+	Name="Medic";
+	Health=60;
 	
 	public void Healing(Character character)
 	{
